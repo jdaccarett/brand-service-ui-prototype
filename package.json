@@ -5,12 +5,22 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@material-ui/core": "3.9.3",
     "apollo-boost": "0.3.1",
+    "deep-rename-keys": "0.2.1",
+    "formik": "1.5.4",
     "graphql": "14.2.1",
-    "react": "16.8.6",
+    "material-icons-react": "1.0.4",
+    "react": "16.9.0-alpha.0",
+    "react-adopt": "0.6.0",
     "react-apollo": "2.5.5",
+    "react-dnd": "7.4.5",
+    "react-dnd-html5-backend": "7.4.4",
     "react-dom": "16.8.6",
-    "react-scripts": "2.1.8"
+    "react-router-dom": "5.0.0",
+    "react-scripts": "2.1.8",
+    "react-treebeard": "3.2.2",
+    "styled-components": "4.2.0"
   },
   "devDependencies": {
     "typescript": "3.3.3"
